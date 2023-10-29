@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukhtar Khan</h1>
 <h3 align="center">Passionate WEB3 Developer</h3>
-<img src = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" width = "400" alt = "img-coding-gif">  </img>
+<img src = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" height = "auto" width = "380" alt = "img-coding-gif">  </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhtar-02&label=Viewers&color=44cfcd&style=plastic" alt="mukhtar-02" /> </p>
 
