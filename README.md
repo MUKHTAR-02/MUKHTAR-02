@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhtar Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate WEB3 Developer</h3>
 <img src = "https://media.tenor.com/4DEF84bYG2AAAAAd/stray-programming.gif" width = "400" alt = "img-coding-gif">  </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhtar-02&label=Viewers&color=44cfcd&style=plastic" alt="mukhtar-02" /> </p>
