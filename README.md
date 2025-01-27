@@ -5,7 +5,7 @@
 
 <img align = "right" src = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" height = "auto" width = "380" alt = "img-coding-gif"> </img> 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **mukhtarkhan9371@gmail.com**
 
