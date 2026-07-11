@@ -5,8 +5,6 @@
 
 <img align = "right" src = "https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif" height = "auto" width = "380" alt = "img-coding-gif"> </img> 
 
-- 🌱 I’m currently learning **Node JS**
-
 - 📫 How to reach me **mukhtarkhan9371@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhtar-02&label=Viewers&color=44cfcd&style=plastic" alt="mukhtar-02" /> </p>
